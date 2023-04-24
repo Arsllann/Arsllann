@@ -1,5 +1,5 @@
 #  🎮 About Me:
- I’m currently learning Unreal Engine 5 , iClone and Character Creator Replications
+I am actively working on improving my skills and knowledge of Unreal Engine 5, as well as iClone and Character Creator Replications.
 
 
 ## 🌐 Socials:
