@@ -1,21 +1,35 @@
-#  🎮 About Me:
-I am actively working on improving my skills and knowledge of Unreal Engine 5, as well as iClone and Character Creator Replications.
+<div align="center">
 
+# 🚀 About Me:
+👋 Hi! I'm Ömer Faruk Arslan.
+I work in game development with Unreal Engine and digital marketing. I have experience in game design, scene and character modeling, and programming with Blueprint. Additionally, I specialize in SEO and ad management.
+
+🚀 **Expertise:**  
+🎮 Unreal Engine | 🖌️ Game & Scene Design | 🛠️ Blueprint | 📈 Digital Marketing & SEO
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Tbhjhb8s) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/ömer-faruk-arslan-11b83423a](https://[www.linkedin.com/in/%C3%B6mer-arslan-11b83423a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBp0dVx9jSb662XPRrDIr9w%3D%3D](https://www.linkedin.com/in/%C3%B6mer-arslan-11b83423a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBp0dVx9jSb662XPRrDIr9w%3D%3D))) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ArsIIan) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ömer-arslan-11b83423a)
+ 
+## 💻 Tech Stack: 
+![GitHub](https://img.shields.io/badge/github-%23181717.svg?logo=github&logoColor=white) 
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?logo=trello&logoColor=white) 
+![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?logo=arduino&logoColor=white) 
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) 
+![UNREAL](https://img.shields.io/badge/unreal-%2320232a.svg?style=plastic&logo=unreal-engine&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) 
+![iClone](https://img.shields.io/badge/iClone-%2300A0E3.svg?style=plastic&logo=iclone&logoColor=white) 
+![Character Creator](https://img.shields.io/badge/Character%20Creator-%2300A0E3.svg?style=plastic&logo=character-creator&logoColor=white)
 
-# 💻 Tech Stack:
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![UNREAL](https://img.shields.io/badge/unreal-%2320232a.svg?style=plastic&logo=unreal-engine&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Arsllann&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Arsllann&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsllann&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=example&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=example&theme=dark&hide_border=false)    
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Arsllann&theme=oldie&no-frame=true&no-bg=true&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=example&theme=oldie&no-frame=true&no-bg=true&margin-w=4)  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Arsllann&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+</div>
